@@ -1,0 +1,15 @@
+*.pyc
+*.xplor
+*.vesta
+*.swp
+*.swo
+*.pdb
+*.res
+*.lst
+*.fcf
+*.cif
+*.sflog
+*.inflip
+*.cif
+__pycache__/
+.DS_Store/
